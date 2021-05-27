@@ -1,4 +1,7 @@
 {
   "usingComponents": {
+    "website-intro": "/components/website_intro/WebsiteIntro",
+    "prizes-intro": "/components/prizes_intro/PrizesIntro",
+    "swpier-news": "/components/swpier_news/SwiperNews"
   }
 }
