@@ -1,0 +1,7 @@
+<view class="bg-red-600 py-7 px-2 text-white">
+    <view class="text-center font-bold text-lg"><text>{{title}}</text></view>
+    <view class="text-left text-xs" wx:for="{{info}}" wx:key="*item">
+        <text class="text-bold text-2xl">·</text>
+        <text>{{item}}</text>
+    </view>
+</view>
