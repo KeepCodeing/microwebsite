@@ -1,0 +1,4 @@
+<view class="bg-gray-50 py-5 text-black">
+    <view class="text-center"><text class="font-bold">{{title}}</text></view>
+    <view class="h-screen my-3"><image class="h-full" src="{{prizes}}"></image></view>
+</view>
