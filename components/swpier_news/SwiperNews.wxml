@@ -1,0 +1,27 @@
+<view class="pb-5">
+    <swiper
+            autoplay="{{swiper_config.autoplay}}"
+            current="{{swiper_config.current}}"
+            circular
+            previous-margin="30px"
+            next-margin="30px"
+            style="height: 330px;"
+    >
+        <block wx:for="{{swiper_config.swiper_info}}">
+            <swiper-item class="p-3 box-border rounded flex justify-center">
+                <view class="shadow-lg p-3 bg-white">
+                    <view
+                            class="text-center"
+                          style="height: 35px; background:url({{item.icon}}); background-size: contain; background-repeat: no-repeat; background-position: center;"></view>
+                    <view class="text-black font-bold">
+                        <text>{{item.title}}</text>
+                    </view>
+                    <view class="text-sm mt-2 text-gray-400"><text>{{item.text}}</text></view>
+                    <view class="text-center text-red-500 text-xs" style="bottom: 25px;position: absolute;left: 50%;transform: translateX(-50%);">
+                        <text>查看详情>></text>
+                    </view>
+                </view>
+            </swiper-item>
+        </block>
+    </swiper>
+</view>
