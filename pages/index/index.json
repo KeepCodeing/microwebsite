@@ -1,5 +1,9 @@
 {
   "usingComponents": {
+    "SGH_header":"/components/SGH_header/Header",
+    "SGH_section1":"/components/SGH_section1/Section1",
+    "SGH_section2":"/components/SGH_section2/Section2",
+    "SGH_section3":"/components/SGH_section3/Section3",
     "website-intro": "/components/website_intro/WebsiteIntro",
     "prizes-intro": "/components/prizes_intro/PrizesIntro",
     "swpier-news": "/components/swpier_news/SwiperNews"

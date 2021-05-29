@@ -1,0 +1,22 @@
+<view class=".section1__topic">
+    <view class="section1__topic__title">在线学习，就选学而思网校</view>
+    <view class="section1__topic__meta">好未来集团权威出品，带孩子探索世界与未来</view>
+</view>
+<view class="section1__zhanlue">
+     <view class="section1__zhanlue-item">
+            <image class="section1__zhanlue-item-img" src="/images/s1.png"/>
+            <view class="section1__zhanlue-item-text">中国航天事业战略合作伙伴</view>   
+     </view>
+     <view class="section1__zhanlue-item">
+            <image class="section1__zhanlue-item-img" src="/images/s2.png"/>
+            <view class="section1__zhanlue-item-text">入选央视品牌强国工程</view> 
+     </view>
+     <view class="section1__zhanlue-item">
+           <image class="section1__zhanlue-item-img" src="/images/s3.png"/>
+           <view class="section1__zhanlue-item-text">"北大—好未来" 学习科学联合实验室</view> 
+     </view>
+     <view class="section1__zhanlue-item">
+           <image class="section1__zhanlue-item-img" src="/images/s4.png"/>
+           <view class="section1__zhanlue-item-text">清华大学就业实践基地</view> 
+     </view>
+</view>

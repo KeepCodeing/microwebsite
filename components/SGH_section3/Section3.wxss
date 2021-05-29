@@ -1,0 +1,48 @@
+.section3__title {
+    text-align: center;
+    font-size: 5.333vw;
+    font-weight: 700;
+    color: #1d1d1d;
+}
+.section3__app{
+        padding-top: 13.333vw;
+        padding-bottom: 10.667vw;
+        background-color: #f5f5f5;
+        display:flex;
+}
+
+.section3__app__img{
+    margin-left: 3.733vw;
+    display: inline-block;
+    min-width: 14.267vw;
+    width: 14.267vw;
+    height: 14.267vw;
+    
+    
+}
+
+.section3__app__view{
+    margin-left: 5.867vw;
+    margin-right: 3.6vw;
+    font-size: 4vw;
+   
+    color: #1d1d1d;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.appname{
+    display: flex;
+    font-weight: 700;
+    font-size: 5vw;
+    
+}
+.section3__app__view_desc {
+    margin-top: .667vw;
+    font-size: 4vw;
+    font-weight: 400;
+}

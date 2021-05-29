@@ -1,0 +1,23 @@
+<view class="section2">
+	<view class="section2__title">18年教研沉淀，让孩子爱上学习</view>
+
+	<view class="section2__swiper">
+		<swiper next-margin="100px" easing-function="easeInOutCubic" circular="true">
+			<swiper-item >
+
+				<image  class="swiper-img" src="/images/sw1.png" />
+
+			</swiper-item>
+			<swiper-item >
+				<image class="swiper-img" src="/images/sw2.png" />
+			</swiper-item> 
+			<swiper-item >
+				<image class="swiper-img" src="/images/sw3.png" />
+			</swiper-item>
+			<swiper-item >
+				<image class="swiper-img" src="/images/sw4.png" />
+			</swiper-item>
+		</swiper>
+	</view>
+
+</view>

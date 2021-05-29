@@ -1,4 +1,8 @@
 <view>
+    <SGH_header />
+    <SGH_section1 />
+    <SGH_section2 />
+    <SGH_section3 />
     <website-intro />
     <prizes-intro />
     <swpier-news />

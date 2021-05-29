@@ -1,0 +1,21 @@
+.section2 {
+    margin-top: 7.867vw;
+}
+.section2__title {
+    text-align: center;
+    font-size: 5.333vw;
+    font-weight: 700;
+    color: #1d1d1d;
+}
+.section2__swiper{
+    height: 250px;
+}
+swiper-item{
+   height: 30px;
+    width: 300px;
+    background-color: blue;
+}
+.section2__swiper image{
+   height: 100%;
+   width: 75%;
+}

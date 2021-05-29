@@ -1,0 +1,56 @@
+<view>
+	<view class="section3__title">多元产品生态 精准满足个性化需求</view>
+	
+	<view class="section3__app">
+		<image class="section3__app__img" src="/images/app1.png" />
+		<view class="section3__app__view">
+			<view class="appname">学而思网校</view>
+			<view class="section3__app__view_desc">
+				提供小初高全学科在线课程辅导；“主讲+班主任”双师教学模式
+			</view>
+		</view>
+	</view>
+	
+
+	<view class="section3__app">
+		<image class="section3__app__img" src="/images/app2.png" />
+		<view class="section3__app__view">
+			<view class="appname">题拍拍</view>
+			<view class="section3__app__view_desc">
+				学而思独家题库；拍照搜题，真人解题
+			</view>
+		</view>
+	</view>
+
+	<view class="section3__app">
+		<image class="section3__app__img" src="/images/app3.png" />
+		<view class="section3__app__view">
+			<view class="appname">口算宝</view>
+			<view class="section3__app__view_desc">
+				海量教研数据积累；手机拍照，一秒检查
+			</view>
+		</view>
+	</view>
+	
+	<view class="section3__app">
+		<image class="section3__app__img" src="/images/app4.png" />
+		<view class="section3__app__view">
+			<view class="appname">小猴启蒙</view>
+			<view class="section3__app__view_desc">
+				趣味动画+游戏互动，启蒙上小猴
+			</view>
+		</view>
+	</view>
+
+	<view class="section3__app">
+		<image class="section3__app__img" src="/images/app3.png" />
+		<view class="section3__app__view">
+			<view class="appname">家长帮</view>
+			<view class="section3__app__view_desc">
+				帮助家长引领孩子未来和自我发展的垂直交流
+			</view>
+		</view>
+	</view>
+
+
+</view>
