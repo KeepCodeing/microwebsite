@@ -5,8 +5,8 @@
     color: #1d1d1d;
 }
 .section3__app{
-        padding-top: 13.333vw;
-        padding-bottom: 10.667vw;
+        padding-top: 4.5vh;
+        padding-bottom: 4.5vh;
         background-color: #f5f5f5;
         display:flex;
 }

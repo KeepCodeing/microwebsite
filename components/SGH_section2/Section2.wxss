@@ -1,3 +1,4 @@
+@import '../../tailwind.wxss'
 .section2 {
     margin-top: 7.867vw;
 }
@@ -12,10 +13,8 @@
 }
 swiper-item{
    height: 30px;
-    width: 300px;
-    background-color: blue;
 }
 .section2__swiper image{
    height: 100%;
-   width: 75%;
+   width: 85%;
 }

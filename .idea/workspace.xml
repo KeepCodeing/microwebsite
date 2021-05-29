@@ -2,45 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c976f8e-6322-48bf-800e-7ccf97919b77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/prizes_intro/PrizesIntro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/prizes_intro/PrizesIntro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/prizes_intro/PrizesIntro.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/prizes_intro/PrizesIntro.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/swpier_news/SwiperNews.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/swpier_news/SwiperNews.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/swpier_news/SwiperNews.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/swpier_news/SwiperNews.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/website_intro/WebsiteIntro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/website_intro/WebsiteIntro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/website_intro/WebsiteIntro.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/website_intro/WebsiteIntro.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/Chart_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/Shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/people.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/selected_contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/selected_home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/selected_mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/wifi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prizes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SGH_section2/Section2.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/SGH_section2/Section2.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SGH_section2/Section2.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/SGH_section2/Section2.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SGH_section3/Section3.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/SGH_section3/Section3.wxss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1622032039200</updated>
       <workItem from="1622032041025" duration="7886000" />
-      <workItem from="1622111761744" duration="1307000" />
+      <workItem from="1622111761744" duration="1761000" />
+      <workItem from="1622164137512" duration="91000" />
+      <workItem from="1622276338841" duration="647000" />
     </task>
     <servers />
   </component>

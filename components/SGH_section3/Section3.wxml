@@ -1,5 +1,5 @@
 <view>
-	<view class="section3__title">多元产品生态 精准满足个性化需求</view>
+	<view class="section3__title" style="background: #f5f5f5;padding-top: 3vh;padding-bottom: 3vh;">多元产品生态 精准满足个性化需求</view>
 	
 	<view class="section3__app">
 		<image class="section3__app__img" src="/images/app1.png" />
